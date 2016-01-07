@@ -1,0 +1,28 @@
+name: kalileoyuen
+favicon: null
+layout_spectrum: 0.6592413960024714
+typography_spectrum: 0.3585654441267252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9867056922521442
+  lightness: 0.9655703203752637
+  saturation: 0.9696716922335327
+  rhythmicContrast: 0.9674018113873899
+purpose: []
